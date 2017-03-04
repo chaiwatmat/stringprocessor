@@ -1,0 +1,4 @@
+bin
+obj
+TestResult.xml
+project.lock.json
