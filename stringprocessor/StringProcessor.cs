@@ -3,9 +3,9 @@ using System.Collections;
 using System.Text.RegularExpressions;
 using System.Linq;
 
-namespace Chaiwatmat.StringCalculator
+namespace Chaiwatmat.StringProcessor
 {
-    public class StringCalculator
+    public class StringProcessor
     {
         public int Add(string input)
         {
